@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Codie8
+- 👋 Hi, I’m Shubham Shitole
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects
