@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Shitole
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Data Science/Machine Learning
+- 🌱 I’m continuously learning human
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me : https://www.linkedin.com/in/shubham-shitole/
 
