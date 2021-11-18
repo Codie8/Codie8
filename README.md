@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shubham Shitole
+- 👋 Hi, I’m Shubham Shitole (Senior Software Engineer)
 - 👀 I’m interested in Data Science/Machine Learning
 - 🌱 I’m continuously learning human
 - 💞️ I’m looking to collaborate on Data Science Projects
